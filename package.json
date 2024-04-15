@@ -1,0 +1,26 @@
+{
+  "name": "Twitch",
+  "version": "1.0.5",
+  "pkgrel": "2",
+  "description": "Twitch desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "url": "https://gitlab.com/twitch-application/application"
+  },
+  "keywords": [
+    "Twitch"
+  ],
+  "author": "Corey Bruce",
+  "license": "GPL",
+  "devDependencies": {
+    "electron": "^21.2.0",
+    "electron-builder": "^23.6.0",
+    "electron-packager": "^17.0.0"
+  },
+  "dependencies": {
+    "electron-context-menu": "^3.6.0"
+  }
+}

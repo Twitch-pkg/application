@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Twitch
+Comment=Unofficial Twitch desktop application
+Icon=twitch
+Exec=Twitch
+Actions=
+Categories=AudioVideo;Video;
